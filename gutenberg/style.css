@@ -1,0 +1,43 @@
+/* Change the colour scheme to something aesthetically pleasing */
+
+body { 
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: justify;
+    background-image: url('images/bg.jpg');
+    background-size: 100%;
+    background-repeat: repeat-y;
+
+}
+
+/* Theme paragraphs with CSS */
+p {
+    font-family: serif, Georgia;
+    font-size: large;
+    line-height: 1.5;
+    text-indent:1.52em;
+    
+}
+
+
+/* Theme header tags with CSS */
+h1, h2, h3, h4, h5 {
+    text-align: center;
+    font-family: serif, Georgia;
+    line-height: 2;
+    margin-top: 0.5em;
+
+}
+
+/* Theme images and images captions with CSS */
+img{
+	display: block !important;
+    margin: auto !important;
+    width: 65%;
+}
+
+
+
+
+
+

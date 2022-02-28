@@ -1,0 +1,86 @@
+
+
+.header h1 {
+    font-family: cursive;
+    font-size: 80px;
+    color: #f9c74f;
+}
+.header {
+    background-color: #aacc00;
+    text-align: center;
+    margin-bottom: 2rem;
+    padding: 1rem 2rem 2rem 2rem;
+}
+
+.navbar {
+    list-style-type: none;
+    font-size: large;
+    
+}
+.nav-item {
+    display: inline;
+    padding-left: 2rem;
+}
+
+
+.body {
+    font-family: monospace;
+    margin-right: 10%;
+
+}
+
+.about {
+    display: flex;
+    justify-content: flex-start;
+    
+}
+
+.about img {
+    width:15%;
+   
+    padding-bottom: 2rem;
+}
+.about .profile{
+    background-color: #ff70a6;
+    padding: 0 2rem 2rem 2rem;
+    
+    margin-bottom: 2rem;
+    width: 70%;
+    font-size: large; 
+    
+}
+.about .profile h2 {
+    background-color: #fbf8cc;
+}
+
+.others {
+    display: flex;
+    justify-content: flex-start;
+}
+.others .important-points {
+    width:19%;
+   
+    background-color: #00f5d4;
+   
+    padding-left: 1rem;
+    font-size: large;
+
+}
+.others .important-points h2 {
+    background-color: #ffd7ba;
+}
+.history-skills {
+    width: 70%;
+}
+.container {
+    background-color: #8093f1;
+    border: 3px solid green;
+    margin-bottom: 2rem;
+    padding: 0 2rem 2rem 2rem;
+    font-size: large;
+}
+.container h2 {
+    background-color: #f1c0e8;
+}
+
+
